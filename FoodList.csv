@@ -1,0 +1,321 @@
+Restaurant,Dish,Ingredients,Dish_Price,Quantity,Unit,FDC,Calorie/100g,Ingredient_Price/100 gm
+Chipotle,Chicken burrito,chicken,8.85,132,gram,331960,237,1.32
+Chipotle,Chicken burrito,white rice,8.85,120,gram,790214,359,0.274
+Chipotle,Chicken burrito,black beans,8.85,60,gram,747444,180,0.44
+Chipotle,Chicken burrito,lettuce,8.85,60,gram,2346389,21,1.11
+Chipotle,Chicken burrito,salsa,8.85,40,gram,746777,34,0.59
+Chipotle,Chicken burrito,sour cream,8.85,30,gram,173443,196,0.66
+Chipotle,Chicken burrito,monterey jack cheese,8.85,56,gram,2341123,373,0.99
+Chipotle,Chicken burrito,fajita,8.85,40,gram,599993,205,1.34
+Chipotle,steak burrito ,steak,10.6,132,gram,746762,139,1.98
+Chipotle,steak burrito ,white rice,10.6,120,gram,790214,359,0.274
+Chipotle,steak burrito ,black beans,10.6,60,gram,747444,180,0.44
+Chipotle,steak burrito ,lettuce,10.6,60,gram,2346389,21,1.11
+Chipotle,steak burrito ,salsa,10.6,40,gram,746777,34,0.59
+Chipotle,steak burrito ,sour cream,10.6,30,gram,173443,196,0.66
+Chipotle,steak burrito ,monterey jack cheese,10.6,56,gram,2341123,373,0.99
+Chipotle,steak burrito ,fajita,10.6,40,gram,599993,205,1.34
+Chipotle,barbacoa burrito ,barbacoa,10.6,132,gram,2341251,257,2.82
+Chipotle,barbacoa burrito ,white rice,10.6,120,gram,790214,359,0.274
+Chipotle,barbacoa burrito ,black beans,10.6,60,gram,747444,180,0.44
+Chipotle,barbacoa burrito ,lettuce,10.6,60,gram,2346389,21,1.11
+Chipotle,barbacoa burrito ,salsa,10.6,40,gram,746777,34,0.59
+Chipotle,barbacoa burrito ,sour cream,10.6,30,gram,173443,196,0.66
+Chipotle,barbacoa burrito ,monterey jack cheese,10.6,56,gram,2341123,373,0.99
+Chipotle,barbacoa burrito ,fajita,10.6,40,gram,599993,205,1.34
+Chipotle,carnitas burrito ,carnitas,9.5,132,gram,2341269,271,2.82
+Chipotle,carnitas burrito ,white rice,9.5,120,gram,790214,359,0.274
+Chipotle,carnitas burrito ,black beans,9.5,60,gram,747444,180,0.44
+Chipotle,carnitas burrito ,lettuce,9.5,60,gram,2346389,21,1.11
+Chipotle,carnitas burrito ,salsa,9.5,40,gram,746777,34,0.59
+Chipotle,carnitas burrito ,sour cream,9.5,30,gram,173443,196,0.66
+Chipotle,carnitas burrito ,monterey jack cheese,9.5,56,gram,2341123,373,0.99
+Chipotle,carnitas burrito ,fajita,9.5,40,gram,2344088,205,1.34
+Chipotle,veggie burrito ,white rice,8.85,132,gram,790214,359,0.274
+Chipotle,veggie burrito ,black beans,8.85,120,gram,747444,180,0.44
+Chipotle,veggie burrito ,lettuce,8.85,60,gram,2346389,21,1.11
+Chipotle,veggie burrito ,salsa,8.85,60,gram,746777,34,0.59
+Chipotle,veggie burrito ,sour cream,8.85,40,gram,173443,196,0.66
+Chipotle,veggie burrito ,monterey jack cheese,8.85,30,gram,2341123,373,0.99
+Chipotle,veggie burrito ,fajita,8.85,56,gram,2344088,205,1.34
+Chipotle,veggie burrito ,guacamole,2.65,40,gram,2344801,155,2.19
+Chipotle,chicken quesadilla ,Chicken,9.4,132,gram,331960,237,1.32
+Chipotle,chicken quesadilla ,flour tortilla ,9.4,120,gram,2343304,306,0.7
+Chipotle,chicken quesadilla ,black beans,9.4,60,gram,747444,180,0.44
+Chipotle,chicken quesadilla ,lettuce,9.4,60,gram,2346389,21,1.11
+Chipotle,chicken quesadilla ,salsa,9.4,40,gram,746777,34,0.59
+Chipotle,chicken quesadilla ,sour cream,9.4,30,gram,173443,196,0.66
+Chipotle,chicken quesadilla ,monterey jack cheese,9.4,56,gram,2341123,373,0.99
+Chipotle,chicken quesadilla ,fajita,9.4,40,gram,2344088,205,1.34
+Chipotle,steak qusadilla ,steak,11.15,132,gram,746762,139,1.98
+Chipotle,steak qusadilla ,flour tortilla,11.15,120,gram,2343304,306,0.7
+Chipotle,steak qusadilla ,black beans,11.15,60,gram,747444,180,0.44
+Chipotle,steak qusadilla ,lettuce,11.15,60,gram,2346389,21,1.11
+Chipotle,steak qusadilla ,salsa,11.15,40,gram,746777,34,0.59
+Chipotle,steak qusadilla ,sour cream,11.15,30,gram,173443,196,0.66
+Chipotle,steak qusadilla ,monterey jack cheese,11.15,56,gram,2341123,373,0.99
+Chipotle,steak qusadilla ,fajita,11.15,40,gram,2344088,205,1.34
+Chipotle,barbacoa quesadilla  ,barbacoa,11.15,132,gram,2341251,257,1.98
+Chipotle,barbacoa quesadilla  ,flour toritlla,11.15,120,gram,2343304,306,0.7
+Chipotle,barbacoa quesadilla  ,black beans,11.15,60,gram,747444,180,0.44
+Chipotle,barbacoa quesadilla  ,lettuce,11.15,60,gram,2346389,21,1.11
+Chipotle,barbacoa quesadilla  ,salsa,11.15,40,gram,746777,34,0.59
+Chipotle,barbacoa quesadilla  ,sour cream,11.15,30,gram,173443,196,0.66
+Chipotle,barbacoa quesadilla  ,monterey jack cheese,11.15,56,gram,2341123,373,0.99
+Chipotle,barbacoa quesadilla  ,fajita,11.15,40,gram,2344088,205,1.34
+Chipotle,carnita quesadilla,carnitas,9.4,132,gram,2341269,271,2.82
+Chipotle,carnita quesadilla,flour tortilla ,11.15,120,gram,2343304,306,0.7
+Chipotle,carnita quesadilla,black beans,11.15,60,gram,747444,180,0.44
+Chipotle,carnita quesadilla,lettuce,10.5,60,gram,2346389,21,1.11
+Chipotle,carnita quesadilla,salsa,9.4,40,gram,746777,34,0.59
+Chipotle,carnita quesadilla,sour cream,9.4,30,gram,173443,196,0.66
+Chipotle,carnita quesadilla,monterey jack cheese,9.4,56,gram,2341123,373,0.99
+Chipotle,carnita quesadilla,fajita,9.4,40,gram,599993,205,1.34
+Chipotle,chicken salad,black beans,8.85,60,gram,747444,180,0.44
+Chipotle,chicken salad,lettuce,8.85,60,gram,2346389,21,1.11
+Chipotle,chicken salad,salsa,8.85,40,gram,746777,34,0.59
+Chipotle,chicken salad,sour cream,8.85,30,gram,173443,196,0.66
+Chipotle,chicken salad,monterey jack cheese,8.85,56,gram,2341123,373,0.99
+Chipotle,chicken salad,fajita,8.85,40,gram,2344088,205,1.34
+Chipotle,steak salad,steak,10.6,132,gram,746762,139,1.98
+Chipotle,steak salad,white rice,10.6,120,gram,790214,359,0.274
+Chipotle,steak salad,black beans,10.6,60,gram,747444,180,0.44
+Chipotle,steak salad,lettuce,10.6,60,gram,2346389,21,1.11
+Chipotle,steak salad,salsa,10.6,40,gram,746777,34,0.59
+Chipotle,steak salad,sour cream,10.6,30,gram,173443,196,0.66
+Chipotle,steak salad,monterey jack cheese,10.6,56,gram,2341123,373,0.99
+Chipotle,steak salad,fajita,10.6,40,gram,2344088,205,1.34
+Chipotle,barbacoa salad,barbacoa,10.6,132,gram,2341251,257,1.98
+Chipotle,barbacoa salad,white rice,10.6,120,gram,790214,359,0.274
+Chipotle,barbacoa salad,black beans,10.6,60,gram,747444,180,0.44
+Chipotle,barbacoa salad,lettuce,10.6,60,gram,2346389,21,1.11
+Chipotle,barbacoa salad,salsa,10.6,40,gram,746777,34,0.59
+Chipotle,barbacoa salad,sour cream,10.6,30,gram,173443,196,0.66
+Chipotle,barbacoa salad,monterey jack cheese,10.6,56,gram,2341123,373,0.99
+Chipotle,barbacoa salad,fajita,10.6,40,gram,2344088,205,1.34
+Chipotle,carnitas salad,carnitas,9.5,132,gram,2341269,271,2.82
+Chipotle,carnitas salad,white rice,9.5,120,gram,790214,359,0.274
+Chipotle,carnitas salad,black beans,9.5,60,gram,747444,180,0.44
+Chipotle,carnitas salad,lettuce,9.5,60,gram,2346389,21,1.11
+Chipotle,carnitas salad,salsa,9.5,40,gram,746777,34,0.59
+Chipotle,carnitas salad,sour cream,9.5,30,gram,173443,196,0.66
+Chipotle,carnitas salad,monterey jack cheese,9.5,56,gram,2341123,373,0.99
+Chipotle,carnitas salad,fajita,9.5,40,gram,2344088,205,1.34
+Chipotle,veggie salad,white rice,8.85,220,gram,790214,359,0.274
+Chipotle,chicken taco,white rice,8.85,120,gram,790214,359,0.274
+Chipotle,chicken taco,black beans,8.85,120,gram,747444,180,0.44
+Chipotle,chicken taco,lettuce,8.85,60,gram,2346389,21,1.11
+Chipotle,chicken taco,salsa,8.85,60,gram,746777,34,0.59
+Chipotle,chicken taco,sour cream,8.85,40,gram,173443,196,0.66
+Chipotle,chicken taco,monterey jack cheese,8.85,30,gram,2341123,373,0.99
+Chipotle,chicken taco,fajita,8.85,56,gram,2344088,205,1.34
+Chipotle,steak taco,steak,10.6,132,gram,746762,139,1.98
+Chipotle,steak taco,white rice,10.6,220,gram,790214,359,1.98
+Chipotle,steak taco,black beans,10.6,120,gram,747444,180,0.44
+Chipotle,steak taco,lettuce,10.6,60,gram,2346389,21,1.11
+Chipotle,steak taco,salsa,10.6,60,gram,746777,34,0.59
+Chipotle,steak taco,sour cream,10.6,40,gram,173443,196,0.66
+Chipotle,steak taco,monterey jack cheese,10.6,30,gram,2341123,373,0.99
+Chipotle,steak taco,fajita,10.6,56,gram,2344088,205,1.34
+Chipotle,barbacoa taco,barbacoa,10.6,132,gram,2341251,257,1.98
+Chipotle,barbacoa taco,white rice,10.6,120,gram,790214,359,0.274
+Chipotle,barbacoa taco,black beans,10.6,120,gram,747444,180,0.44
+Chipotle,barbacoa taco,lettuce,10.6,60,gram,2346389,21,1.11
+Chipotle,barbacoa taco,salsa,10.6,60,gram,746777,34,0.59
+Chipotle,barbacoa taco,sour cream,10.6,40,gram,173443,196,0.66
+Chipotle,barbacoa taco,monterey jack cheese,10.6,30,gram,2341123,373,0.99
+Chipotle,barbacoa taco,fajita,10.6,56,gram,2344088,205,1.34
+Chipotle,carnitas taco,carnitas,9.5,132,gram,2341269,271,2.82
+Chipotle,carnitas taco,white rice,9.5,120,gram,790214,359,0.274
+Chipotle,carnitas taco,black beans,9.5,120,gram,747444,180,0.44
+Chipotle,carnitas taco,lettuce,9.5,60,gram,2346389,21,1.11
+Chipotle,carnitas taco,salsa,9.5,60,gram,746777,34,0.59
+Chipotle,carnitas taco,sour cream,9.5,40,gram,173443,196,0.66
+Chipotle,carnitas taco,monterey jack cheese,9.5,30,gram,2341123,373,0.99
+Chipotle,carnitas taco,fajita,9.5,56,gram,2344088,205,1.34
+Thai Basil,Pineapple Fried Rice,prawns,17.45,140,gram,175180,99,1.2
+Thai Basil,Pineapple Fried Rice,chicken,17.45,200,gram,331960,152.5,0.49
+Thai Basil,Pineapple Fried Rice,egg,17.45,48,gram,748967,145,0.5
+Thai Basil,Pineapple Fried Rice,Pineapple,17.45,180,gram,2346398,57,0.52
+Thai Basil,Pineapple Fried Rice,white onion,17.45,80,gram,1104962,34.5,0.498
+Thai Basil,Pineapple Fried Rice,raisins,17.45,14,gram,2344707,299,1.05
+Thai Basil,Pineapple Fried Rice,cashew nuts,17.45,23,gram,170162,553,1.715
+Thai Basil,Pineapple Fried Rice,peas,17.45,25,gram,170419,81,0.35
+Thai Basil,Pineapple Fried Rice,carrots,17.45,40,gram,2258586,46.5,0.18
+Thai Basil,Basil Eggplant Chicken,chicken,15.45,60,gram,171605,20,1.32
+Thai Basil,Basil Eggplant Chicken,bell pepper,15.45,60,gram,2258591,29.5,0.88
+Thai Basil,Basil Eggplant Chicken,white onion,15.45,80,gram,1104962,34.5,0.498
+Thai Basil,Basil Eggplant Chicken,basil,15.45,15,gram,172232,23,4.4
+Thai Basil,Basil Eggplant Chicken,eggplant ,15.45,125,gram,169228,25,0.9
+Thai Basil,Basil Eggplant Chicken,rice,15.45,470,gram,790214,364,0.281
+Thai Basil,Pad Kee Mow Chicken,rice noodles ,16.45,300,gram,168914,108,1.65
+Thai Basil,Pad Kee Mow Chicken,egg,16.45,48,gram,748967,145,0.5
+Thai Basil,Pad Kee Mow Chicken,white onion,16.45,80,gram,1104962,34.5,0.498
+Thai Basil,Pad Kee Mow Chicken,bell pepper,16.45,60,gram,2258591,29.5,0.88
+Thai Basil,Pad Kee Mow Chicken,broccoli,16.45,60,gram,747447,35.5,0.63
+Thai Basil,Pad Kee Mow Chicken,bean sprouts,16.45,60,gram,169213,29,0.77
+Thai Basil,Pad Kee Mow Chicken,Thai chili,16.45,12,gram,2102149,167,1.97
+Thai Basil,Pad Thai Chicken & Prawns,rice noodles ,15.95,300,gram,168914,108,1.65
+Thai Basil,Pad Thai Chicken & Prawns,egg,15.95,48,gram,748967,145,0.5
+Thai Basil,Pad Thai Chicken & Prawns,chicken,15.95,200,gram,331897,152.5,0.49
+Thai Basil,Pad Thai Chicken & Prawns,prawns,15.95,140,gram,175180,99,1.2
+Thai Basil,Pad Thai Chicken & Prawns,peanuts,15.95,13,gram,172434,563,0.422
+Thai Basil,Pad Thai Chicken & Prawns,tofu,15.95,100,gram,173788,85,0.67
+Thai Basil,Pad Thai Chicken & Prawns,bean sprouts,15.95,60,gram,169213,29,0.77
+Thai Basil,Combo Garlic Pepper,chicken,16.85,53,gram,331960,152.5,0.49
+Thai Basil,Combo Garlic Pepper,beef,16.85,53,gram,746760,114,1.398
+Thai Basil,Combo Garlic Pepper,pork,16.85,53,gram,167813,632,0.398
+Thai Basil,Combo Garlic Pepper,imitation crab,16.85,30,gram,2341999,95,0.88
+Thai Basil,Combo Garlic Pepper,prawns,16.85,140,gram,175180,99,1.2
+Thai Basil,Combo Garlic Pepper,mushrooms,16.85,12,gram,1999628,40,1.056
+Thai Basil,Combo Garlic Pepper,white onion,16.85,80,gram,1104962,34.5,0.498
+Thai Basil,Combo Garlic Pepper,rice,16.85,470,gram,790214,364,0.281
+Thai Basil,Spicy Basil Catfish,catfish,17.95,125,gram,175165,119,1.198
+Thai Basil,Spicy Basil Catfish,eggplant ,17.95,125,gram,169228,25,0.9
+Thai Basil,Spicy Basil Catfish,red curry,17.95,225,gram,2034463,133,1.725
+Thai Basil,Spicy Basil Catfish,rice,17.95,470,gram,790214,364,0.281
+Ttoust,Bibim Bop,Beef,15.45,113,gram,746760,114,1.543
+Ttoust,Bibim Bop,Egg,15.45,50,gram,748967,145,0.5
+Ttoust,Bibim Bop,Carrots,15.45,50,gram,170393,46.5,0.18
+Ttoust,Bibim Bop,Purple Cabbage ,15.45,50,gram,169977,31.1,0.37
+Ttoust,Bibim Bop,Squash,15.45,50,gram,169291,37,0.46
+Ttoust,Bibim Bop,Spinach ,15.45,50,gram,168463,23.2,0.31
+Ttoust,Bibim Bop,Jasmine Rice,15.45,100,gram,528742,129,0.28
+Ttoust,Kimchi Soup,Jasmine Rice,8.5,100,gram,528742,129,0.28
+Ttoust,Kimchi Soup,Egg,8.5,50,gram,748967,145,0.5
+Ttoust,Kimchi Soup,Kimchi,8.5,50,gram,690310,19,0.06
+Ttoust,Kimchi Soup,Onions,8.5,50,gram,170000,34.5,0.2926
+Ttoust,Kimchi Soup,Fish Sauce,8.5,15,gram,495413,100,0.03
+Ttoust,Kimchi Soup,Pork,8.5,113,gram,167813,632,0.398
+Ttoust,Kimchi Soup,Tofu,8.5,67,gram,173788,85,0.74
+Ttoust,Kimchi Soup,Green Onions,8.5,50,gram,170005,32,0.34
+Ttoust,Kimchi Soup,Chili,8.5,13,gram,170106,40,1.72
+Ttoust,Gaibi Short Rib,Onions,15.99,50,gram,170000,34.5,0.2926
+Ttoust,Gaibi Short Rib,Beef Short Ribs,15.99,227,gram,170783,114,2.42
+Ttoust,Gaibi Short Rib,potato,15.99,67,gram,170026,77,0.18
+Ttoust,Gaibi Short Rib,fish cake,15.99,30,gram,508149,82,0.32
+Ttoust,Gaibi Short Rib,kimchi,15.99,30,gram,690310,19,0.06
+Ttoust,Gaibi Short Rib,Soy Sauce,15.99,30,gram,174277,53,0.02
+Ttoust,Gaibi Short Rib,Sesame ,15.99,10,gram,170150,573,0.2
+Ttoust,Gaibi Short Rib,Brown Sugar,15.99,30,gram,557238,375,0.85
+Ttoust,Gaibi Short Rib,Lettuce,15.99,30,gram,169249,15,0.28
+Ttoust,Gaibi Short Rib,Jasmine Rice,15.99,100,gram,528742,129,0.28
+Ttoust,Spicy Rice Cake,Rice Cake,9.99,30,gram,385031,316,0.03
+Ttoust,Spicy Rice Cake,Carrots,9.99,50,gram,170393,46.5,0.18
+Ttoust,Spicy Rice Cake,Sweet Chili Sauce,9.99,10,gram,540145,200,0.2926
+Ttoust,Spicy Rice Cake,Onions,9.99,50,gram,170000,34.5,0.2926
+Ttoust,Spicy Rice Cake,Glass Noodle,9.99,50,gram,170000,34.5,0.12
+Ttoust,Spicy Rice Cake,Jasmine Rice,9.99,100,gram,528742,129,0.28
+Ttoust,Spicy Rice Cake,Seaweed,9.99,13,gram,168457,43,0.72
+Ttoust,Spicy Rice Cake,fish cake,9.99,30,gram,508149,82,0.32
+Ttoust,Spicy Rice Cake,Green Onions,9.99,100,gram,170005,32,0.34
+Ttoust,Spicy Rice Cake,Cabbage ,9.99,100,gram,169975,25,0.22
+Ttoust,Spicy Rice Cake,Brown Sugar,9.99,30,gram,557238,375,0.85
+Ttoust,Spicy Rice Cake,Flour,9.99,30,gram,168944,332,0.21
+Ttoust,BBQ Chicken,Chicken,8.5,230,gram,331960,158,0.44
+Ttoust,BBQ Chicken,potato,8.5,100,gram,170026,77,0.18
+Ttoust,BBQ Chicken,fish cake,8.5,30,gram,508149,82,0.38
+Ttoust,BBQ Chicken,kimchi,8.5,30,gram,690310,19,0.06
+Ttoust,BBQ Chicken,Teriyaki Sauce,8.5,30,gram,171176,89,0.45
+Ttoust,BBQ Chicken,Sesame ,8.5,30,gram,170150,573,0.2
+Ttoust,BBQ Chicken,Brown Sugar,8.5,30,gram,557238,375,0.22
+Ttoust,BBQ Chicken,Lettuce,8.5,30,gram,169249,15,0.85
+Ttoust,BBQ Chicken,Jasmine Rice,8.5,100,gram,528742,129,0.28
+IB,Cheeseburger,beef,9,151,gram,746760,114,1.543
+IB,Cheeseburger,bun,9,40,gram,170293,282,1.12864
+IB,Cheeseburger,ketchup,9,15,gram,2345246,109,0.49378
+IB,Cheeseburger,onion,9,20,gram,170000,40,0.2926
+IB,Cheeseburger,lettuce,9,15,gram,169249,15,0.8542857143
+IB,Cheeseburger,tomato,9,75,gram,170457,18,0.4136
+IB,Cheeseburger,cheddar cheese,9,28,gram,170899,410,0.98756
+IB,Cheeseburger,burger sauce,9,20,gram,2076775,94,1.580096
+IB,Avogobble sandwich,grilled onion,15,20,gram,1868244,95,0.2926
+IB,Avogobble sandwich,cheddar cheese,15,28,gram,170899,410,0.98756
+IB,Avogobble sandwich,mayo,15,15,gram,171002,334,0.84648
+IB,Avogobble sandwich,mustard,15,15,gram,171043,464,0.52905
+IB,Avogobble sandwich,lettuce,15,25,gram,169249,15,0.8542857143
+IB,Avogobble sandwich,tomato,15,75,gram,170457,18,0.4136
+IB,Avogobble sandwich,hot sauce,15,15,gram,171186,93,0.74067
+IB,Avogobble sandwich,sandwich bun,15,100,gram,170293,282,0.95229
+IB,Avogobble sandwich,roasted turkey,15,113,gram,171481,159,1.9778
+IB,Avogobble sandwich,avocado,15,77,gram,171706,167,0.3302325581
+IB,Veggie Combo,sandwich bun,14,100,gram,170293,282,0.95229
+IB,Veggie Combo,grilled onion,14,20,gram,1868244,95,0.2926
+IB,Veggie Combo,lettuce,14,25,gram,169249,15,0.8542857143
+IB,Veggie Combo,hot sauce,14,15,gram,171186,93,0.74067
+IB,Veggie Combo,mayo,14,15,gram,171002,334,0.84648
+IB,Veggie Combo,mustard,14,15,gram,171043,464,0.52905
+IB,Veggie Combo,pickles,14,26,gram,324653,14,0.3883
+IB,Veggie Combo,tomato,14,75,gram,170457,18,0.4136
+IB,Veggie Combo,cheese,14,28,gram,170899,410,0.98756
+IB,Veggie Combo,avocado,14,77,gram,171706,167,0.3302325581
+IB,IB's Original(chicken),grilled onion,13,20,gram,1868244,95,0.2926
+IB,IB's Original(chicken),cheese,13,28,gram,170899,410,0.98756
+IB,IB's Original(chicken),mayo,13,15,gram,171002,334,0.84648
+IB,IB's Original(chicken),mustard,13,15,gram,171043,464,0.52905
+IB,IB's Original(chicken),lettuce,13,25,gram,169249,15,0.8542857143
+IB,IB's Original(chicken),tomato,13,75,gram,170457,18,0.4136
+IB,IB's Original(chicken),hot sauce,13,15,gram,171186,93,0.74067
+IB,IB's Original(chicken),chicken,13,283,gram,331960,153.5,0.4378
+IB,IB's Original(chicken),sandwich bun,13,100,gram,170293,282,0.95229
+IB,IB's Original(beef),grilled onion,13,20,gram,1868244,95,0.2926
+IB,IB's Original(beef),cheese,13,28,gram,170899,410,0.98756
+IB,IB's Original(beef),mayo,13,15,gram,171002,334,0.84648
+IB,IB's Original(beef),mustard,13,15,gram,171043,464,0.52905
+IB,IB's Original(beef),lettuce,13,25,gram,169249,15,0.8542857143
+IB,IB's Original(beef),tomato,13,75,gram,170457,18,0.4136
+IB,IB's Original(beef),hot sauce,13,15,gram,171186,93,0.74067
+IB,IB's Original(beef),beef,13,283,gram,746760,114,1.543
+IB,IB's Original(beef),bun,13,100,gram,170293,282,0.95229
+IB,IB's Original(lamb),grilled onion,13,20,gram,1868244,95,0.2926
+IB,IB's Original(lamb),cheese,13,28,gram,170899,410,0.98756
+IB,IB's Original(lamb),mayo,13,15,gram,171002,334,0.84648
+IB,IB's Original(lamb),mustard,13,15,gram,171043,464,0.52905
+IB,IB's Original(lamb),lettuce,13,25,gram,169249,15,0.8542857143
+IB,IB's Original(lamb),tomato,13,75,gram,170457,18,0.4136
+IB,IB's Original(lamb),hot sauce,13,15,gram,171186,93,0.74067
+IB,IB's Original(lamb),lamb,13,283,gram,174370,282,1.0098
+IB,IB's Original(lamb),bun,13,100,gram,170293,282,0.95229
+Poke Bar,Original Salmon Poke Bowl,salmon,15.95,113.4,gram,175167,208,2.2
+Poke Bar,Original Salmon Poke Bowl,white rice,15.95,269.325,gram,169714,366,0.28
+Poke Bar,Original Salmon Poke Bowl,sweet onion,15.95,7.0875,gram,170008,32,0.44
+Poke Bar,Original Salmon Poke Bowl,green onion,15.95,7.0875,gram,170006,27,0.44
+Poke Bar,Original Salmon Poke Bowl,kale,15.95,28.35,gram,168421,35,0.88
+Poke Bar,Original Salmon Poke Bowl,shoyu,15.95,35.4375,gram,2460566,56,1.69
+Poke Bar,Original Salmon Poke Bowl,spicy mayo,15.95,35.4375,gram,2395164,600,1.38
+Poke Bar,Firecracker Poke Bowl,ahi tuna,15.95,113.4,gram,175156,103,2.36
+Poke Bar,Firecracker Poke Bowl,sweet onion,15.95,7.0875,gram,170008,32,0.44
+Poke Bar,Firecracker Poke Bowl,cucumber,15.95,28.35,gram,168409,15,0.88
+Poke Bar,Firecracker Poke Bowl,green onion,15.95,7.0875,gram,170006,27,0.44
+Poke Bar,Firecracker Poke Bowl,spicy mayo,15.95,35.4375,gram,2395164,600,1.38
+Poke Bar,Firecracker Poke Bowl,sweet chili,15.95,35.4375,gram,2158061,171,1.05
+Poke Bar,Firecracker Poke Bowl,house dressing,15.95,35.4375,gram,2025347,533,3.17
+Poke Bar,Sunset House Poke Bowl,ahi tuna,15.95,113.4,gram,175156,103,2.36
+Poke Bar,Sunset House Poke Bowl,salmon,15.95,113.4,gram,175167,208,2.2
+Poke Bar,Sunset House Poke Bowl,white rice,15.95,269.325,gram,169714,366,0.28
+Poke Bar,Sunset House Poke Bowl,cucumber,15.95,28.35,gram,168409,15,0.88
+Poke Bar,Sunset House Poke Bowl,kale,15.95,28.35,gram,168421,35,0.88
+Poke Bar,Sunset House Poke Bowl,green onion,15.95,7.0875,gram,170006,27,0.44
+Poke Bar,Sunset House Poke Bowl,house dressing,15.95,35.4375,gram,2025347,533,3.17
+Poke Bar,The O.G. Poke Bowl,ahi tuna,15.95,113.4,gram,175156,103,2.36
+Poke Bar,The O.G. Poke Bowl,white rice,15.95,269.325,gram,169714,366,0.28
+Poke Bar,The O.G. Poke Bowl,edamame,15.95,452.1825,gram,2342911,140,0.56
+Poke Bar,The O.G. Poke Bowl,sweet onion,15.95,7.0875,gram,170008,32,0.44
+Poke Bar,The O.G. Poke Bowl,green onion,15.95,7.0875,gram,170006,27,0.44
+Poke Bar,The O.G. Poke Bowl,ponzu,15.95,35.4375,gram,2451144,33,1.9
+Poke Bar,The O.G. Poke Bowl,house dressing,15.95,35.4375,gram,2025347,533,3.17
+Poke Bar,Goodie Mob Poke Bowl,tofu,15.95,113.4,gram,173788,85,0.74
+Poke Bar,Goodie Mob Poke Bowl,white rice,15.95,269.325,gram,169714,366,0.28
+Poke Bar,Goodie Mob Poke Bowl,sweet onion,15.95,7.0875,gram,170008,32,0.44
+Poke Bar,Goodie Mob Poke Bowl,green onion,15.95,7.0875,gram,170006,27,0.44
+Poke Bar,Goodie Mob Poke Bowl,cucumber,15.95,28.35,gram,168409,15,0.88
+Poke Bar,Goodie Mob Poke Bowl,edamame,15.95,452.1825,gram,2342911,140,0.56
+Poke Bar,Goodie Mob Poke Bowl,shoyu,15.95,35.4375,gram,2460566,56,1.69
+Poke Bar,Wazzup Poke Bowl,ahi tuna,15.95,113.4,gram,175156,103,2.36
+Poke Bar,Wazzup Poke Bowl,white rice,15.95,269.325,gram,169714,366,0.28
+Poke Bar,Wazzup Poke Bowl,sweet onion,15.95,7.0875,gram,170008,32,0.44
+Poke Bar,Wazzup Poke Bowl,cucumber,15.95,28.35,gram,168409,15,0.88
+Poke Bar,Wazzup Poke Bowl,green onion,15.95,7.0875,gram,170006,27,0.44
+Poke Bar,Wazzup Poke Bowl,ponzu,15.95,35.4375,gram,2451144,33,1.9
+Poke Bar,Wazzup Poke Bowl,wasabi,15.95,452.1825,gram,171831,292,8.78
+Poke Bar,Wazzup Poke Bowl,mayo,15.95,35.4375,gram,171002,334,0.56
